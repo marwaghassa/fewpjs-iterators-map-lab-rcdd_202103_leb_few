@@ -23,6 +23,7 @@ function toTitleCase(){
     tutorial[i]=tutorial[i].charAt[0].ToUpperCase;
   
   }
+  return tutorials.join('');
   }
   )
 }
